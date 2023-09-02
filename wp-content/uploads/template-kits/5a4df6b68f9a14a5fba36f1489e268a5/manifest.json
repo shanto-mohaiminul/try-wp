@@ -1,0 +1,1455 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Plumbo \u2013 Plumbing Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Inline Appointment Form",
+            "screenshot": "screenshots\/metform-inline-appointment-form.jpg",
+            "source": "templates\/metform-inline-appointment-form.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/metform-inline-appointment-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Contact Us Form",
+            "screenshot": "screenshots\/metform-contact-us-form.jpg",
+            "source": "templates\/metform-contact-us-form.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/metform-contact-us-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.12.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "panoramic-shot-of-handyman-working-near-sink-in-kitchen.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/panoramic-shot-of-handyman-working-near-sink-in-kitchen-800x248.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 170153,
+            "dimensions": [
+                2000,
+                621
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZZSDHYC"
+        },
+        {
+            "filename": "stroke3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/stroke3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3526,
+            "dimensions": [
+                205,
+                193
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "herobg7.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/herobg7-800x280.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12151,
+            "dimensions": [
+                1865,
+                653
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "plumber-at-showcase-with-boilers-plumbering-store-1-e1686029331822.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-at-showcase-with-boilers-plumbering-store-1-e1686029331822-800x850.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 202048,
+            "dimensions": [
+                1440,
+                1530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J72U39W"
+        },
+        {
+            "filename": "plumber-in-uniform-fixing-faucet-in-the-kitchen-1-e1686029758542.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-in-uniform-fixing-faucet-in-the-kitchen-1-e1686029758542-800x850.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 152340,
+            "dimensions": [
+                1355,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S9W633D"
+        },
+        {
+            "filename": "confident-handyman-wearing-uniform-with-tool-belt2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/confident-handyman-wearing-uniform-with-tool-belt2-800x1084.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 310525,
+            "dimensions": [
+                952,
+                1290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VLQ82G7"
+        },
+        {
+            "filename": "Vision-Dark.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/Vision-Dark-800x287.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9236,
+            "dimensions": [
+                1043,
+                374
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "Nextmove-Variant2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/Nextmove-Variant2-800x222.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 13146,
+            "dimensions": [
+                1288,
+                357
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "Glossy-Dark.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/Glossy-Dark-800x330.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 10562,
+            "dimensions": [
+                891,
+                367
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "Automation-Dark.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/Automation-Dark-800x313.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 10349,
+            "dimensions": [
+                1066,
+                417
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "Homey-VariDark.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/Homey-VariDark-800x350.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8051,
+            "dimensions": [
+                888,
+                389
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "luminous-Dark.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/luminous-Dark-800x314.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8162,
+            "dimensions": [
+                814,
+                320
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "box-with-tools-on-white-about-uss.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/box-with-tools-on-white-about-uss-800x465.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 179345,
+            "dimensions": [
+                1018,
+                592
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUCFSEV"
+        },
+        {
+            "filename": "plumber-repairing-a-leaky-drain.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-repairing-a-leaky-drain-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 275089,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ETFEBHP"
+        },
+        {
+            "filename": "TOOL-BOX-1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/TOOL-BOX-1-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 18849,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-42XKKMG"
+        },
+        {
+            "filename": "kitchen-sink-install-concept-creative-photo-about-plumber-installing-sink-in-kitchen-interior--e1686029477755.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/kitchen-sink-install-concept-creative-photo-about-plumber-installing-sink-in-kitchen-interior--e1686029477755-800x535.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 337104,
+            "dimensions": [
+                1920,
+                1283
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UCDXXHY"
+        },
+        {
+            "filename": "VALVE.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/VALVE-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24993,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-42XKKMG"
+        },
+        {
+            "filename": "kitchen-sink-install-concept-creative-photo-about-plumber-installing-sink-in-kitchen-interior-1-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/kitchen-sink-install-concept-creative-photo-about-plumber-installing-sink-in-kitchen-interior-1-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 294579,
+            "dimensions": [
+                2000,
+                1336
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9R2PHMJ"
+        },
+        {
+            "filename": "SINK-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/SINK-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24124,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-42XKKMG"
+        },
+        {
+            "filename": "plumber-in-blue-uniform-is-at-work-in-the-bathroom-e1686029515618.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-in-blue-uniform-is-at-work-in-the-bathroom-e1686029515618-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 301204,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YAVGZKH"
+        },
+        {
+            "filename": "bg-circle1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/bg-circle1-800x458.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 43760,
+            "dimensions": [
+                2880,
+                1650
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "young-smiling-asia-woman-with-tablet-standing-on.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/young-smiling-asia-woman-with-tablet-standing-on-800x780.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 342237,
+            "dimensions": [
+                1290,
+                1258
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QENJCMC"
+        },
+        {
+            "filename": "stroke1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/stroke1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 7258,
+            "dimensions": [
+                387,
+                588
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "stroke2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/stroke2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1163,
+            "dimensions": [
+                141,
+                103
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "professional-plumber-looking-concentrated-using-pipe-wrench-while-examining-and-fixing-faucet-in.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/professional-plumber-looking-concentrated-using-pipe-wrench-while-examining-and-fixing-faucet-in-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 361172,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z9TRZC7"
+        },
+        {
+            "filename": "plumber-installing-new-pipes.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-installing-new-pipes-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 364675,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UF4L8WK"
+        },
+        {
+            "filename": "stroke3-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/stroke3-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1339,
+            "dimensions": [
+                123,
+                127
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "smiling-handsome-plumber-standing-with-crossed-arm-1-e1686029723807.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/smiling-handsome-plumber-standing-with-crossed-arm-1-e1686029723807-800x850.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 352703,
+            "dimensions": [
+                1440,
+                1530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y99Z6GE"
+        },
+        {
+            "filename": "plumber-in-uniform-fixing-faucet-in-the-kitchen-2-e1686029745211.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-in-uniform-fixing-faucet-in-the-kitchen-2-e1686029745211-800x850.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 170437,
+            "dimensions": [
+                1440,
+                1530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S9W633D"
+        },
+        {
+            "filename": "top-section-bg4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/top-section-bg4-800x253.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 12983,
+            "dimensions": [
+                1546,
+                489
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "ready-to-fix-anything-close-up-of-repairman-wearing-a-tool-belt-with-various-tools-holding-a.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/ready-to-fix-anything-close-up-of-repairman-wearing-a-tool-belt-with-various-tools-holding-a-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 382344,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RL3MADL"
+        },
+        {
+            "filename": "plumber-holds-water-pump-plumbering-store.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-holds-water-pump-plumbering-store-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 361133,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KEP37E2"
+        },
+        {
+            "filename": "Joseph-Barnett-signature.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/Joseph-Barnett-signature.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9150,
+            "dimensions": [
+                655,
+                158
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-L2YN87E"
+        },
+        {
+            "filename": "sink-and-faucet-concept-creative-photo-about-sink-cropped.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/sink-and-faucet-concept-creative-photo-about-sink-cropped-800x421.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 110966,
+            "dimensions": [
+                1440,
+                758
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HRGYW4N"
+        },
+        {
+            "filename": "plumber-posing-at-the-showcase-plumbering-store.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-posing-at-the-showcase-plumbering-store-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 330770,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HPK43SM"
+        },
+        {
+            "filename": "bgcta-bot2-3x2-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/bgcta-bot2-3x2-1-800x546.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 8182,
+            "dimensions": [
+                1274,
+                870
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "writing-down-complaints.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/writing-down-complaints-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 235030,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MCBCUYF"
+        },
+        {
+            "filename": "handy-man-with-woman-on-the-kitchen.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/handy-man-with-woman-on-the-kitchen-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 330407,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VGJPTSZ"
+        },
+        {
+            "filename": "plumber-cuts-plastic-pipe-plumbering-store.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/plumber-cuts-plastic-pipe-plumbering-store-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 284516,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5R3WSZ3"
+        },
+        {
+            "filename": "plumber-shows-pipe-wrenches-in-plumbering-store.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/plumber-shows-pipe-wrenches-in-plumbering-store-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 238935,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TTCTX97"
+        },
+        {
+            "filename": "plumber-worker-adjusting-water-and-sewage-system-elements-e1686029551338.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumber-worker-adjusting-water-and-sewage-system-elements-e1686029551338-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 287247,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MKSHNS5"
+        },
+        {
+            "filename": "TOILET-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/TOILET-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 30318,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-42XKKMG"
+        },
+        {
+            "filename": "toilet-maintenance-plumber-and-man-fix-cistern-home-renovation-and-builder-service-contractor-b.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/toilet-maintenance-plumber-and-man-fix-cistern-home-renovation-and-builder-service-contractor-b-800x503.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 234617,
+            "dimensions": [
+                2000,
+                1257
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3CQL23X"
+        },
+        {
+            "filename": "WATER-HEATER1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/WATER-HEATER1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 29223,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-42XKKMG"
+        },
+        {
+            "filename": "professional-boiler-service-at-home.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/professional-boiler-service-at-home-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 214475,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XCNM7GG"
+        },
+        {
+            "filename": "PIPELINE-1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/PIPELINE-1-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 22465,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-42XKKMG"
+        },
+        {
+            "filename": "working-the-pipes-like-a-pro-shot-of-a-plumber-repairing-a-pipe-underneath-a-sink-.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/working-the-pipes-like-a-pro-shot-of-a-plumber-repairing-a-pipe-underneath-a-sink--800x653.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 287102,
+            "dimensions": [
+                2000,
+                1633
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AYSPFXK"
+        },
+        {
+            "filename": "young-repairman-of-maintenance-service-shaking-hand-of-housewife-after-work.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/young-repairman-of-maintenance-service-shaking-hand-of-housewife-after-work-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 315056,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JCKLWNY"
+        },
+        {
+            "filename": "portrait-of-two-busy-young-repairmen-e1686029575375.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/portrait-of-two-busy-young-repairmen-e1686029575375-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 444300,
+            "dimensions": [
+                1921,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UYGYV8S"
+        },
+        {
+            "filename": "pipe-2-e1686029599197.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/pipe-2-e1686029599197-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 315361,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMBHEUL"
+        },
+        {
+            "filename": "contemporary-young-mechanic-from-household-maintenance-service-repairing-pipe.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/contemporary-young-mechanic-from-household-maintenance-service-repairing-pipe-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 362875,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JQY8TZB"
+        },
+        {
+            "filename": "happy-confident-customers.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/happy-confident-customers-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 306368,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSEAXZ7"
+        },
+        {
+            "filename": "close-up-shot-of-various-plumbing-hand-tools-in-man-39-s-jeans-back-pocket.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/close-up-shot-of-various-plumbing-hand-tools-in-man-39-s-jeans-back-pocket-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 360357,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EB3V3NS"
+        },
+        {
+            "filename": "with-notepad-in-hands-plumber-in-blue-uniform-is-at-work-in-the-bathroom-e1686029620143.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/06\/with-notepad-in-hands-plumber-in-blue-uniform-is-at-work-in-the-bathroom-e1686029620143-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 281042,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N3VDESU"
+        },
+        {
+            "filename": "plumbologo-A3-white.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumbologo-A3-white.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8139,
+            "dimensions": [
+                568,
+                152
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        },
+        {
+            "filename": "plumbologo-A3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/plumbo\/wp-content\/uploads\/sites\/382\/2023\/05\/plumbologo-A3.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 9664,
+            "dimensions": [
+                568,
+                152
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/plumbo\/"
+        }
+    ]
+}
